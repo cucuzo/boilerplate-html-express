@@ -14,8 +14,8 @@ app.get('/about', (request, response) => {
   response.render('screens/about');
 });
 
-app.get('/collections', (request, response) => {
-  response.render('screens/collections');
+app.get('/collection', (request, response) => {
+  response.render('screens/collection');
 });
 
 app.get('/details/:', (request, response) => {
