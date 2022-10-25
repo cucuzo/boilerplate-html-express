@@ -63,3 +63,11 @@ npm install terser-webpack-plugin --save-dev
 ```
 npm install express --save
 ```
+
+### 11. Server watcher (nodemon)
+
+```
+npm install nodemon --save
+```
+
+## 12. Pug as a HTML Template library
